@@ -1,0 +1,14 @@
+PODS:
+  - FueledStyling (0.1.0)
+
+DEPENDENCIES:
+  - FueledStyling (from `../`)
+
+EXTERNAL SOURCES:
+  FueledStyling:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FueledStyling: 5d287ec0f3af5632193d366d17fc4e342b4db31c
+
+COCOAPODS: 0.34.4
